@@ -1,0 +1,9 @@
+/* CSS Document */
+.table td img{
+	max-width:200px;
+	max-height:50px;
+}
+
+.box-body p.warning{
+	color:#F00;
+}

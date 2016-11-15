@@ -1,0 +1,30 @@
+table.archives_list{background:none repeat scroll 0 0 #FFF;border-collapse:collapse;border-right:1px solid #C9D7DE;border-top:1px solid #C9D7DE;empty-cells:show;margin-top:2px;margin-bottom:2px;width:100%}
+table.archives_list tbody.second{background:none repeat scroll 0 0 #F8F8F8}
+table.archives_list td{border-bottom:1px solid #C9D7DE;border-left:1px solid #C9D7DE;padding:2px 5px}
+table.archives_list tfoot{background:none repeat scroll 0 0 #CCC}
+table.archives_list thead{background:none repeat scroll 0 0 #E9F2FA;font-weight:bold}
+.maincat{background:none repeat scroll 0 0 #F7FBFB}
+.archives_down{display:inline-block;margin-left:5px;padding:2px 0 2px 20px;}
+table.archives_list .archives_links{background:none repeat scroll 0 0 #E9F2FA;border:1px solid #C9D7DE;margin-bottom:5px;padding:5px}
+.archives_links a{font-weight:bold}
+.search_archives{background:none repeat scroll 0 0 #E9F2FA;border:1px solid #C9D7DE;margin-bottom:2px;padding:2px}
+.bdlaw{border:1px solid;border-color:#C9D7DE;padding:5px;margin-bottom:8px}
+.chitiet{border:1px solid;border-color:#C9D7DE;margin-bottom:8px}
+.chitiet h5{padding:5px;margin:0;background:none repeat scroll 0 0 #E9F2FA;font-weight:bold}
+.chitiet>div{padding:0 5px;line-height:24px;text-align:justify}
+.chitiet>div td{vertical-align:top}
+.page{border:1px solid #C9D7DE;padding-left:10px;text-align:center;background:none repeat scroll 0 0 #E9F2FA}
+.submenu{display:none}
+a.hiddenajaxlink{display:none}
+.applemenu{padding:0;border-top:0;margin-bottom:2px}
+.applemenu div.silverheader a{background:url(../images/laws/folder-closed.gif) 0 2px no-repeat;display:block;position:relative;width:auto;padding:1px 0 1px 17px;text-decoration:none;border-top:#c9d7de 1px solid;font-weight:bold}
+.applemenu div.silverheader a:visited,.applemenu div.silverheader a:active,.applemenu div.selected a,.applemenu div.silverheader a:hover{background:url(../images/laws/folder.gif) 0 2px no-repeat}
+.applemenu div.submenu{background:white;padding:5px}
+.applemenu div.submenu a{display:block}
+.applemenu div.submenu a span{padding:6px;display:block;background:#F8F8F8}
+
+/* Extends */
+table.archives_list .doc {background:url(../images/laws/doc.png) no-repeat center left;}
+table.archives_list .rar {background:url(../images/laws/rar.png) no-repeat center left;}
+table.archives_list .pdf {background:url(../images/laws/pdf.png) no-repeat center left;}
+.page strong, .page a{margin-right:7px}

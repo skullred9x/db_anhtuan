@@ -1,0 +1,14 @@
+﻿#search_n{padding:15px 0 15px 0; border:#E4E4E4 1px solid}
+
+.lichcongtac table{padding:10px 0 10px 0; border:#E4E4E4 1px solid; margin-bottom:2px; font-size:14px; font-weight:bold; text-align:center; color:#3624c2; border-collapse:collapse; border-color:#999999;}
+
+.lichcongtac thead tr{margin-bottom:2px; font-size:14px; font-weight:bold; text-align:center; background:#91bef4}
+
+.lichcongtac tbody tr{margin-bottom:2px; font-size:12px; font-weight:normal; text-align:center; color:#1b0669}
+
+.thongbao{margin:10px; font-size:12px}
+.thongbao h1{color:#F00; font-size:15px; font-weight:bold; text-align:center; text-transform:uppercase}
+.thongbao h2{color:#1b0669; font-size:15px; font-weight:bold; text-align:center}
+.thongbao h3{color:#000; font-size:17px; font-weight:bold; text-align:center; text-transform:uppercase}
+.thongbao p{text-align:justify}
+td{vertical-align:middle; margin:0}
